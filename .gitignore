@@ -1,0 +1,30 @@
+#ignore pycache
+*__pycache__/
+
+#ignore .pyc files
+*.pyc
+
+#ignore data folder
+data/
+
+# ignore .env file
+.env
+
+# ignore .vscode folder
+.vscode/
+
+# ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
+context.txt
+
+# unnecessary files
+taxi_zones/
+model/
+*.parquet
+
+# venv
+venv/
+
+# pytest cache
+*.pytest_cache/
