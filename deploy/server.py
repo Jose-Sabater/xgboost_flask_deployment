@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from inference import PredictionModel, MakePrediction
+from .inference import PredictionModel, MakePrediction
 import io
 import pandas as pd
 
