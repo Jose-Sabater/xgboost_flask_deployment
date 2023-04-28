@@ -8,7 +8,7 @@ In this repo I build a xgboost model that predicts the earning of a taxi ride ba
 
 - The very simple EDA,  training and initial predicting is done through notebooks.  
 - In the deploy directory we will have code to deploy this Xgboost model and serve it in a flask server with the option to use docker containers.  
-- .yml provides code for CI/CD
+- .yaml provides code for CI/CD
 
 ## Author
 José María Sabater
